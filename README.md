@@ -38,8 +38,15 @@ Currently working with **JavaScript, React, and modern CSS techniques**.
 
 ## 🧩 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,c,tailwindcss,photoshop" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,redux,c,photoshop" />
 </p>
+
+## 💡 Soft Skills
+- Teamwork & Collaboration 🤝
+- Problem-solving 🧩
+- Communication & Presentation 💬
+- Adaptability & Learning ⚡
+- Creativity & Attention to Detail 🎨
 
 ---
 
