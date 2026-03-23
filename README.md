@@ -19,8 +19,11 @@ I’m a Frontend Developer with hands-on experience in creating visually appeali
 Currently working in a company as a WordPress Developer with 2.5 months of professional experience, I have experience in building and customizing websites using tools like Elementor, along with modern frontend technologies such as JavaScript, React, and advanced CSS.
 
 🔹 Strong interest in UI/UX design
+
 🔹 Experience in WordPress development & customization
+
 🔹 Learning React ecosystem & best practices
+
 🔹 Passionate about converting designs into real, functional products
 
 ---
