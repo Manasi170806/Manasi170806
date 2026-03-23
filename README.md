@@ -13,13 +13,15 @@
 ---
 
 ## ✨ About Me
-I’m a **Frontend Developer** who enjoys creating visually appealing and responsive web applications.  
-I focus on **clean code, smooth UI, and good user experience**.  
-Currently working with **JavaScript, React, and modern CSS techniques**.
 
-- 🔹 Strong interest in UI/UX design  
-- 🔹 Learning React ecosystem & best practices  
-- 🔹 Love converting designs into real products  
+I’m a Frontend Developer with hands-on experience in creating visually appealing, responsive web applications and WordPress websites. I focus on writing clean code, delivering smooth UI, and ensuring a great user experience.
+
+Currently working in a company as a WordPress Developer with 2.5 months of professional experience, I have experience in building and customizing websites using tools like Elementor, along with modern frontend technologies such as JavaScript, React, and advanced CSS.
+
+🔹 Strong interest in UI/UX design
+🔹 Experience in WordPress development & customization
+🔹 Learning React ecosystem & best practices
+🔹 Passionate about converting designs into real, functional products
 
 ---
 
