@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 I'm Manasi Patel</h1>
-<h3 align="center">Frontend Developer | UI Enthusiast</h3>
+<h3 align="center">Frontend & WordPress Developer | UI Enthusiast</h3>
 
 <p align="center">
   <i>Building clean, responsive & user-friendly web interfaces</i><br/>
-  💼 Open to Frontend Developer opportunities
+  💼 Open to Frontend + WordPress Developer opportunities
 </p>
 
 <p align="center">
