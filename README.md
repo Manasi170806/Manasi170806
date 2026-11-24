@@ -16,7 +16,7 @@
 
 I’m a Frontend Developer with hands-on experience in creating visually appealing, responsive web applications and WordPress websites. I focus on writing clean code, delivering smooth UI, and ensuring a great user experience.
 
-Currently working in a company as a WordPress Developer with 2.5 months of professional experience, I have experience in building and customizing websites using tools like Elementor, along with modern frontend technologies such as JavaScript, React, and advanced CSS.
+Currently working in a company as a WordPress Developer with 1 Year of professional experience, I have experience in building and customizing websites using tools like Elementor, along with modern frontend technologies such as JavaScript, React, and advanced CSS.
 
 🔹 Strong interest in UI/UX design
 
