@@ -33,10 +33,6 @@ Currently working in a company as a WordPress Developer with 1 Year of professio
   <a href="https://linkedin.com/in/manasi-patel-6b281a339">
     <img src="https://img.shields.io/badge/LinkedIn-Manasi%20Patel-blue?logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/manasi__1708">
-    <img src="https://img.shields.io/badge/Instagram-manasi__1708-pink?logo=instagram&logoColor=white"/>
-  </a>
 </p>
 
 ---
