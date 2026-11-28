@@ -102,7 +102,7 @@ I enjoy transforming ideas and designs into functional, visually appealing, and 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/manasi-patel17/" target="_blank">
+  <a href="https://www.linkedin.com/in/manasipatel17/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/Manasi170806" target="_blank">
