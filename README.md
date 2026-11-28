@@ -1,9 +1,18 @@
-<h1 align="center">Hi 👋 I'm Manasi Patel</h1>
-<h3 align="center">Frontend & WordPress Developer | UI Enthusiast</h3>
+
+<h1 align="center">Hi 👋, I'm Manasi Patel</h1>
+
+<h3 align="center">WordPress & Shopify Developer | Frontend Developer</h3>
 
 <p align="center">
-  <i>Building clean, responsive & user-friendly web interfaces</i><br/>
-  💼 Open to Frontend + WordPress Developer opportunities
+  Building modern, responsive & user-friendly websites with a focus on clean design and functionality.
+</p>
+
+<p align="center">
+  💼 WordPress & Shopify Development
+  <br/>
+  🚀 Passionate about Frontend Development & UI/UX
+  <br/>
+  🌱 Always Learning & Building New Things
 </p>
 
 <p align="center">
@@ -12,78 +21,118 @@
 
 ---
 
-## ✨ About Me
+## 👩‍💻 About Me
 
-I’m a Frontend Developer with hands-on experience in creating visually appealing, responsive web applications and WordPress websites. I focus on writing clean code, delivering smooth UI, and ensuring a great user experience.
+I'm a **WordPress & Shopify Developer** with professional experience in website development, customization, and responsive design.
 
-Currently working in a company as a WordPress Developer with 1 Year of professional experience, I have experience in building and customizing websites using tools like Elementor, along with modern frontend technologies such as JavaScript, React, and advanced CSS.
+Currently working at **Hunani Infotech**, where I work on WordPress and Shopify websites, custom sections, UI improvements, and website testing.
 
-🔹 Strong interest in UI/UX design
+I enjoy transforming ideas and designs into functional, visually appealing, and user-friendly websites.
 
-🔹 Experience in WordPress development & customization
-
-🔹 Learning React ecosystem & best practices
-
-🔹 Passionate about converting designs into real, functional products
-
----
-
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/manasi-patel-6b281a339">
-    <img src="https://img.shields.io/badge/LinkedIn-Manasi%20Patel-blue?logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+- 💻 Professional experience in WordPress & Shopify Development
+- 🎨 Skilled in Elementor, Elementor Pro & Shopify Liquid
+- 🛍️ Experienced in Shopify customization and custom sections
+- 📱 Focused on responsive web design and UI improvements
+- 🧪 Familiar with QA Testing and website bug fixing
+- 🔍 Basic SEO knowledge, including backlink building
+- ⚡ Familiar with Asana for task management
+- 🌱 Continuously improving my React JS and frontend development skills
 
 ---
 
-## 🧩 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,redux,c,photoshop" />
+## 🛠️ Technical Skills
+
+### WordPress & Shopify
+<p>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Liquid-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
 </p>
 
-## 💡 Soft Skills
-- Teamwork & Collaboration 🤝
-- Problem-solving 🧩
-- Communication & Presentation 💬
-- Adaptability & Learning ⚡
-- Creativity & Attention to Detail 🎨
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,redux" />
+</p>
+
+### Tools & Other Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,photoshop" />
+  <img src="https://img.shields.io/badge/QA%20Testing-4B5563?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Basic%20SEO-0A8F55?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
-### 🛒 E-commerce Add to Cart System
-HTML • CSS • JavaScript  
-Dynamic cart system with quantity update & localStorage
 
-### 📝 React Student Form Application
-React • Formik • Yup  
-Form validation with clean and responsive UI
+### 🏥 Sayona Skin Hair & Laser Clinic
+**React JS | Tailwind CSS**
 
-### 👗 Responsive Tailoring Website
-Modern CSS • Mobile-first Design  
-Fully responsive layout with clean visuals
+- Developed a multi-page clinic website.
+- Created responsive layouts for different devices.
+- Implemented interactive UI components.
+- Focused on modern design and user experience.
+
+🔗 [View Project](https://github.com/Manasi170806/MP-SAYONA_CLINIC-WEBSITE)
+
+### 📚 Library Management System
+**React JS | CRUD Operations**
+
+- Developed a React-based library management application.
+- Implemented book and member management.
+- Added issue and return functionality.
+- Worked on CRUD operations and application functionality.
+
+🔗 [View Project](https://github.com/Manasi170806/Library-Management-System)
 
 ---
 
-## 📊 GitHub Stats & Streak
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manasi170806&show_icons=true&hide_title=true" />
+## 💡 Soft Skills
+
+- 🤝 Teamwork & Collaboration
+- 🧩 Problem Solving
+- ⚡ Quick Learning & Adaptability
+- 🎨 Creativity & Attention to Detail
+- 💬 Communication
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/manasi-patel17/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/Manasi170806" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
+<p align="left">
+  📧 <b>manasipatel17082006@gmail.com</b>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasi170806&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manasi170806&show_icons=true&theme=default&hide_title=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasi170806&theme=default" height="165"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manasi170806&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=manasi170806&theme=flat&no-frame=true&margin-w=10"/>
 </p>
 
 ---
 
-✨ *Always learning, improving, and building better frontend experiences.*
-
-
+<p align="center">
+  ✨ <i>Building, Learning, Improving — One Project at a Time!</i>
+</p>
